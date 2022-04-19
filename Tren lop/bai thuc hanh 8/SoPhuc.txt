@@ -1,0 +1,4 @@
+SoPhuc 1: 3 +i5
+SoPhuc 2: 4 +i4
+SoPhuc 1+ SoPhuc 2: 7 +i9
+SoPhuc 1- SoPhuc 2: -1 +i1

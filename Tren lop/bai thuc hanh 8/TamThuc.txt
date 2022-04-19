@@ -1,0 +1,4 @@
+x doi dau: -1xý +-2x +-3
+y doi dau: -1xý +-2x +-2
+Tong: -2xý +-4x +-5
+Hieu: 0xý +0x +-1
